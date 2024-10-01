@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C,C++,C#,Python
 - HTML CSS JavaScript
 - 💞️ I’m looking to collaborate on learning more, solving Problems among others.
-- 📫 How to reach me michealphenh10@gmail.com
+- 📫 How to reach me intricatesyllable@gmail.con
 
 <!---
 An-him/An-him is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
